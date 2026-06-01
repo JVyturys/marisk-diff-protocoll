@@ -7,3 +7,6 @@ Ein Compliance-Produktivitäts-Tool zur interaktiven Gap-Analyse, Statusverfolgu
 * **Gap-Analyse & Tracking:** Setzen von Status (Offen, In Bearbeitung, Erledigt), Prioritäten und Zuständigkeiten.
 * **Offline-Ready:** Speichert alle Fortschritte automatisch im lokalen Speicher des Browsers (`localStorage`).
 * **Export & Import:** Vollständiger Daten-Export als CSV (für Excel) oder JSON (für Backups/Migrationen).
+
+# Anwendung
+Die Datei index.html herunterladen und über Broweser öffnen.   
